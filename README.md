@@ -1,0 +1,1 @@
+This project demonstrates how to fine-tune Meta's LLaMA 2-7B model using Hugging Face's transformers, peft, and trl libraries in a Colab environment. It uses 4-bit quantization for efficient training and integrates with Weights & Biases (WandB) for experiment tracking.
